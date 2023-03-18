@@ -9,7 +9,7 @@ import cv2
 model = load_model('model1.h5')
 
 # Load an OCT image to classify
-img = cv2.imread('image4.jpeg')
+img = cv2.imread('image4.jpeg') #Path to the image
 img = cv2.resize(img, (224, 224))
 x = image.img_to_array(img)
 x = np.expand_dims(x, axis=0)
