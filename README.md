@@ -12,7 +12,5 @@ Place the dataset in the same folder as of the Train&Val code file
 You can download the model from the link
 https://drive.google.com/file/d/1z2gkPJa1ztrGzd4lTdFJOT6Z-JacMGrC/view?usp=sharing
 
--> Run the Train&Val code to create a trained model that will detect and classify retinal diseases
--> Run the Eval code to identify the disease from the user input
-
 The ouput will be classified as CNV, DMW, DRUSEN & NORMAL
+![1](https://user-images.githubusercontent.com/39665323/226118715-cb0b0c8b-7f26-49b6-adea-7afb2a28063b.png)
