@@ -1,4 +1,4 @@
-# retinal-diseases-detection-and-classification
+# Retinal diseases detection & classification
 
 Requirements
 - Anaconda
