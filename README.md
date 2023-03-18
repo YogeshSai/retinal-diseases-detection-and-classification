@@ -4,6 +4,7 @@ Requirements
 - Anaconda
 - Tensorflow = conda install -c conda-forge tensorflow
 - OpenCV = pip install opencv-python
+- Numpy = pip install numpy
 
 Download the dataset from the kaggle
 https://www.kaggle.com/datasets/paultimothymooney/kermany2018
